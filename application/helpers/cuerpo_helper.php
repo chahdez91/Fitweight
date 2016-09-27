@@ -11,7 +11,7 @@
    	echo "<html>";   	
 	echo "<head>";
 	echo "<title>$titulo</title>";
-	echo "<script>../Scripts/modernizr-custom.js</script>";
+	echo "<script>../Plugins/modernizr-custom.js</script>";
 	echo $scripts;
 	echo $estilos;
 	echo $metatag;
