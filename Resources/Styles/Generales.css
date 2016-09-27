@@ -11,7 +11,15 @@ header {
     width: 100%;   
     background-color: #f0f0f0;
     box-shadow: 3px 2px 5px #C0c0c0;
-    z-index: 999999;
+    z-index: 9;
+    position: relative;
+}
+
+#Slider {
+    width: 100%;   
+    background-color: #f0f0f0;
+    box-shadow: 3px 2px 5px #C0c0c0;
+    z-index: 9;
     position: relative;
 }
 
@@ -32,10 +40,6 @@ header {
 
 footer {
     clear: both;
-    background-color: #4a4a4a;
-    border-top: solid 10px #00a89a;
-    border-style: solid;
-    min-height: 226px;
     padding-bottom: 20px;
     font-size: 12px;
     color: #fff;
