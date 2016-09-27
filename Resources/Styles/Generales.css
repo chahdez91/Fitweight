@@ -8,8 +8,7 @@ body {
 }
 
 header {
-    width: 100%;
-    min-height: 95px;
+    width: 100%;   
     background-color: #f0f0f0;
     box-shadow: 3px 2px 5px #C0c0c0;
     z-index: 999999;
