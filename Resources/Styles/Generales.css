@@ -9,15 +9,26 @@ body {
 
 header {
     width: 100%;   
-    background-color: #f0f0f0;
+    background-color: #fff;
     box-shadow: 3px 2px 5px #C0c0c0;
     z-index: 9;
     position: relative;
 }
 
+footer {
+    clear: both;
+    padding-bottom: 20px;
+    font-size: 12px;
+    color: #fff;
+   }
+   
+   img{
+   	max-width:100%;
+   }
+   
 #Slider {
     width: 100%;   
-    background-color: #f0f0f0;
+    background-color: #fff;
     box-shadow: 3px 2px 5px #C0c0c0;
     z-index: 9;
     position: relative;
@@ -38,8 +49,57 @@ header {
     width: 100%;
 }
 
-footer {
-    clear: both;
-    padding-bottom: 20px;
-    font-size: 12px;
+.ColoresHeader{
+	overflow: hidden;
+}
+
+
+.divHeaderMenu {
+	overflow: hidden;
+}
+
+.divHeaderMenu > div{
+	float:left
+}
+
+.divHeaderMenu .div1{
+	width:152px;
+	margin-top: 30px;
+}
+
+.divHeaderMenu .div2{
+	max-width:760px;
+	width:100%;
+}
+
+.divHeaderMenu .div3{
+	width:228px;
+}
+
+.ulMenuHeader{
+	overflow:hidden;	
+	    margin-top: 78px;
+}
+
+.ulMenuHeader > li{
+	display:inline-block;	
+}
+
+.ulMenuHeader > li a{
+	font-size: 18px;
+    background-color: #e2061a;
     color: #fff;
+    padding: 5px 24px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 14px;
+    font-style:italic;
+}
+
+.ulMenuHeader > li a:hover{
+	background-color:#0f63ad;
+	text-decoration:none;
+}
+
+
+
