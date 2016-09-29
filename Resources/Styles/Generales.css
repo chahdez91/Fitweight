@@ -101,5 +101,20 @@ footer {
 	text-decoration:none;
 }
 
+footer #divFooter .div1{
+    width: 220px;
+    margin: 30px 60px;
+	
+}
+
+footer #divFooter .div2{
+	
+}
+
+footer #divFooter .div3{
+    width: 280px;
+    margin: 10px 60px;
+}
+
 
 
