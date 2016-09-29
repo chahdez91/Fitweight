@@ -94,6 +94,7 @@ footer {
     display: inline-block;
     margin-right: 14px;
     font-style:italic;
+    text-decoration:none;
 }
 
 .ulMenuHeader > li a:hover{
@@ -114,6 +115,25 @@ footer #divFooter .div2{
 footer #divFooter .div3{
     width: 280px;
     margin: 10px 60px;
+}
+
+.carousel-control .glyphicon-chevron-right, .carousel-control .glyphicon-chevron-left{
+	color: #0f63ad;
+    background-color: white;
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+}
+
+.modal-body{
+    height: 500px;
+    margin-left: -155px;
+    width: 950px;
+    background-size:100%;
+}
+
+.modal-content{
+	background-color:transparent;
 }
 
 

@@ -6,6 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>Resources/Styles/Generales.css">
 		<script type='text/javascript' src="<?php echo base_url(); ?>Resources/Plugins/modernizr-custom.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	</head>
 	<body>
 		<header>
@@ -63,6 +64,5 @@
 					</a>
 				</div>
 			</div>
-			</div>
-							
+			</div>						
 		</header>

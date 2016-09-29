@@ -1,3 +1,17 @@
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal" style="display: none;" id="btnModal">
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body" style="background-image:url(<?php echo base_url() ?>Resources/Images/frontpage/frontpage-24.png);">
+      </div>
+    </div>
+  </div>
+</div>
+
 <section id="Slider">
 	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -45,3 +59,10 @@
 <section id="Body">
 	
 </section>
+
+<script>
+	$(document).ready(function (){
+		$('#btnModal').click();
+		
+	});
+</script>
