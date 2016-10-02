@@ -26,3 +26,29 @@
     z-index: 9;
     position: relative;
 }
+
+#divHome .div1 > div{
+	max-width:228px;
+	margin:0 auto;
+}
+
+.div100px{
+	width:100px;
+	margin: 0 auto;
+}
+.divVerMas a{
+	text-decoration:none;
+}
+
+.divVerMas p, .divVerMas h4{
+	text-align:center;
+}
+
+.divVerMas p{
+	background-color: #f09d30;
+	width: 54px;
+	margin:0 auto;
+	padding: 4px;
+	color: #fff;
+}
+
