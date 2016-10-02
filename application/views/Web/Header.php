@@ -24,24 +24,24 @@
 			<div class="content-wrapper">
 				<div class="divHeaderMenu">
 				<div class="div1">
-					<a href="#">
+					<a href="Home">
 						<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-13.png" />
 					</a>
 				</div>
 				<div class="div2">
 					<ul class="ulMenuHeader">
 						<li>
-							<a href="#">
+							<a href="Conocenos">
 								Conócenos 
 							</a>
 						</li>
 						<li>
-							<a href="#">
+							<a href="Productos">
 								Productos 
 							</a>
 						</li>
 						<li>
-							<a href="#">
+							<a href="Eventos">
 								Eventos 
 							</a>
 						</li>
@@ -51,7 +51,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="#">
+							<a href="Franquicias">
 								Franquicias 
 							</a>
 						</li>

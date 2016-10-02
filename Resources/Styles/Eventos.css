@@ -1,0 +1,32 @@
+#divEventos .div1 .row{
+	margin-bottom: 50px;
+}
+
+
+#divEventos .div2 > div{
+	max-width:304px;
+	margin:0 auto;
+}
+
+.div100px{
+	width:100px;
+	margin: 0 auto;
+}
+
+#Slider {
+    width: 100%;   
+    background-color: #fff;
+    box-shadow: 3px 2px 5px #C0c0c0;
+    z-index: 9;
+    position: relative;
+}
+
+
+.carousel-control .glyphicon-chevron-right, .carousel-control .glyphicon-chevron-left{
+	color: #0f63ad;
+    background-color: white;
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+}
+

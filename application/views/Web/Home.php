@@ -27,7 +27,6 @@
     <div class="item active">
       <img src="<?php echo base_url() ?>Resources/Images/frontpage/frontpage-33.png" alt="...">
       <div class="carousel-caption">
-        ...
       </div>
     </div>
     <div class="item">

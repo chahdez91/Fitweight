@@ -12,7 +12,7 @@
 				<div class="col-lg-4">
 					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-30.png" />
 					<div class="div2">
-						<a>
+						<a href="Home">
 							<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-27.png" />
 						</a>
 					</div>					
@@ -20,7 +20,7 @@
 				<div class="col-lg-4">
 					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-31.png" />
 					<div class="div3">
-						<a>
+						<a href="Contacto">
 							<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-26.png" />
 						</a>
 					</div>					
