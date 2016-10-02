@@ -1,0 +1,61 @@
+#divProductos .div2{
+	max-width:608px;
+	margin:0 auto;
+}
+
+#divProductos .div2 .row{
+	margin-bottom: 10px;
+}
+
+#divProductos .div1{
+	height: 280px;
+	margin-bottom: 20px;
+}
+
+#divProductos .div1 > div{	
+	background-size: 100%;
+    height: 100%;
+}
+
+.div100px{
+	width:100px;
+	margin: 0 auto;
+}
+
+#divProductos .div3 > div{
+	max-width:228px;
+	margin:0 auto;
+}
+
+#divProductos .Mesoterapia{
+	background-image: url(../Images/productos/productos-44.png);
+}
+
+#divProductos .Suplementos{
+	background-image: url(../Images/productos/productos-51.png);
+}
+
+#divProductos .Medicamentos{
+	background-image: url(../Images/productos/productos-50.png);
+}
+
+#divProductos .DermoEstetica{
+	background-image: url(../Images/productos/productos-48.png);
+}
+
+#divProductos .MaterialCuracion{	
+	background-image: url(../Images/productos/productos-47.png);
+}
+
+#divProductos .MaterialApoyo{
+	background-image: url(../Images/productos/productos-45.png);
+}
+
+#divProductos .Desechables{
+	background-image: url(../Images/productos/productos-46.png);
+}
+
+#divProductos .Aparatologia{
+	background-image: url(../Images/productos/productos-49.png);
+}
+

@@ -53,5 +53,6 @@ $route['default_controller'] = 'Web/Home';
 $route['Home'] = 'Web/Home';
 $route['Contacto'] = 'Web/Contacto';
 $route['Conocenos'] = 'Web/Conocenos';
+$route['Conocenos'] = 'Web/Productos';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

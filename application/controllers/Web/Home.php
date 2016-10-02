@@ -8,7 +8,7 @@ class Home extends CI_Controller {
 		
     	$data['titulo'] = 'Home';
     	$data['estilos'] = '<link rel="stylesheet" type="text/css" href="'.base_url().'Resources/Styles/Home.css">';
-		$data['scripts'] = '<script>$(document).ready(function (){$("#btnModal").click();});</script>';
+		$data['scripts'] = '<script src="'.base_url().'Resources/Scripts/Home.js"></script>';
 				    	
     	$this->load->view('Web/Header',$data);
         $this->load->view('Web/Home');
