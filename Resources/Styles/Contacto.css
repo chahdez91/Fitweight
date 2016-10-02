@@ -1,0 +1,46 @@
+#divContacto .div1{
+	max-width:684px;
+	margin: 0 auto;
+	background-image:url(../Images/contacto/contacto-62.png);
+	background-size:100%;
+    height: 315px;
+    overflow: hidden;
+}
+
+#divContacto .div1 > div{
+	max-width: 608px;
+    margin: 65px auto 0;
+    background-image: url(../Images/contacto/contacto-61.png);
+    background-size: 100%;
+    padding: 33px 0;
+}
+
+#divContacto .div1 h2, #divContacto .div1 h3{
+	text-align:center;
+}
+
+
+#divContacto .div2{
+	max-width:532px;
+	margin: 20px auto;
+}
+
+.div2 input[type="text"], .div2 textarea, .div2 input[type="email"]{
+    background-color: #999999;
+    border: 2px solid #0F63AD;
+    border-radius: 10px;
+}
+
+.btn{
+	background-color:#e2061a ;
+	color:#fff;
+	font-style: italic;
+	float: right;
+	border-radius: 5px;
+}
+
+.btn:hover, .btn:active, .btn:focus, .btn:visited{
+	background-color:#0F63AD ;
+	color:#fff;
+}
+

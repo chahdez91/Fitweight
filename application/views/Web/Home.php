@@ -6,12 +6,13 @@
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
-      <div class="modal-body" style="background-image:url(<?php echo base_url() ?>Resources/Images/frontpage/frontpage-24.png);">
+      <div class="modal-body">
       </div>
     </div>
   </div>
 </div>
 
+<!-- SLIDER -->
 <section id="Slider">
 	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->

@@ -1,0 +1,28 @@
+.carousel-control .glyphicon-chevron-right, .carousel-control .glyphicon-chevron-left{
+	color: #0f63ad;
+    background-color: white;
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+}
+
+.modal-body{
+    height: 500px;
+    margin-left: -155px;
+    width: 950px;
+    background-size:100%;
+    background-image:url(../Images/frontpage/frontpage-24.png);
+}
+
+.modal-content{
+	background-color:transparent;
+}
+
+
+#Slider {
+    width: 100%;   
+    background-color: #fff;
+    box-shadow: 3px 2px 5px #C0c0c0;
+    z-index: 9;
+    position: relative;
+}

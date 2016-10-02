@@ -5,11 +5,12 @@ body {
     font-family: Open Sans;
     margin: 0;
     width: 100%;
+    background-image: url(../Images/frontpage/frontpage-32.png);
+    background-size:100% 100%;
 }
 
 header {
     width: 100%;   
-    background-color: #fff;
     box-shadow: 3px 2px 5px #C0c0c0;
     z-index: 9;
     position: relative;
@@ -26,21 +27,17 @@ footer {
    	max-width:100%;
    }
    
-#Slider {
-    width: 100%;   
-    background-color: #fff;
-    box-shadow: 3px 2px 5px #C0c0c0;
-    z-index: 9;
-    position: relative;
-}
+
 
 #Body {
     clear: both;
-    padding: 3%;
+    padding: 0 3%;
     width: 94%;
     max-width: 1140px;
     min-height: 250px;
-    margin: 0 auto;
+    margin: 30px auto;
+    overflow: hidden;
+    
 }
 
 .content-wrapper {
@@ -78,7 +75,7 @@ footer {
 
 .ulMenuHeader{
 	overflow:hidden;	
-	    margin-top: 78px;
+    margin-top: 78px;
 }
 
 .ulMenuHeader > li{
@@ -117,24 +114,15 @@ footer #divFooter .div3{
     margin: 10px 60px;
 }
 
-.carousel-control .glyphicon-chevron-right, .carousel-control .glyphicon-chevron-left{
-	color: #0f63ad;
-    background-color: white;
-    border-radius: 20px;
-    height: 35px;
-    width: 35px;
+.Rojo{
+	color:#e2061a;
 }
 
-.modal-body{
-    height: 500px;
-    margin-left: -155px;
-    width: 950px;
-    background-size:100%;
+.Azul{
+	color:#0f63ad
 }
 
-.modal-content{
-	background-color:transparent;
-}
+
 
 
 

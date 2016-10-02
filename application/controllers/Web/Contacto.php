@@ -1,17 +1,17 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Home extends CI_Controller {
+class Contacto extends CI_Controller {
     public function index()
     {
     	$this->load->helper('url');
 		
-    	$data['titulo'] = 'Home';
-    	$data['estilos'] = '<link rel="stylesheet" type="text/css" href="'.base_url().'Resources/Styles/Home.css">';
+    	$data['titulo'] = 'Contacto';
+    	$data['estilos'] = '<link rel="stylesheet" type="text/css" href="'.base_url().'Resources/Styles/Contacto.css">';
 		$data['scripts'] = '';
 				    	
     	$this->load->view('Web/Header',$data);
-        $this->load->view('Web/Home');
+        $this->load->view('Web/Contacto');
 		$this->load->view('Web/Footer',$data);
     }
 }

@@ -26,7 +26,10 @@
 					</div>					
 				</div>
 			</div>
-		</footer>		
+		</footer>	
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>	
+		<script type='text/javascript' src="<?php echo base_url(); ?>Resources/Plugins/modernizr-custom.js"></script>		
 		<script type='text/javascript' src="<?php echo base_url(); ?>Resources/Plugins/bootstrap/js/bootstrap.min.js"></script>
+		<?php echo $scripts ?>
 	</body>
 </html>
