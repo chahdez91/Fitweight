@@ -1,7 +1,44 @@
-#divContacto .div1{
+#divConocenos .div1{
 	max-width:684px;
-	margin: 0 auto;
+	margin: 0 auto 60px;
     height: 315px;
     overflow: hidden;
 }
 
+.div100px{
+	width:100px;
+	margin: 0 auto;
+}
+
+
+.divListas ul{
+	float:left;
+    padding: 10px;
+}
+
+
+p{
+	text-align:justify;
+}
+
+.backgroundAzul, .backgroundVerde, .backgroundRojo{
+	margin-top:10px;
+	color:#fff;
+	overflow: hidden;
+	padding: 25px;
+	min-height: 250px;
+	max-height: 250px;
+	overflow: hidden;
+}
+
+.backgroundAzul{
+	background-color: #0f63ad;
+}
+
+.backgroundVerde{
+	background-color: #3fa635;
+}
+
+.backgroundRojo{
+	background-color: #e2061a;
+}
