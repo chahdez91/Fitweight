@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Contacto extends CI_Controller {
+class Conocenos extends CI_Controller {
     public function index()
     {
     	$this->load->helper('url');
@@ -11,7 +11,7 @@ class Contacto extends CI_Controller {
 		$data['scripts'] = '';
 				    	
     	$this->load->view('Web/Header',$data);
-        $this->load->view('Web/Contacto');
+        $this->load->view('Web/Conocenos');
 		$this->load->view('Web/Footer',$data);
     }
 }
