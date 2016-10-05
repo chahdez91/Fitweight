@@ -1,8 +1,12 @@
+@font-face {
+    font-family: Calibri;
+    src: url(../Fuentes/CALIBRI.TTF);
+}
+
 body {
     background-color: #fff;
     color: #333;
     font-size: .85em;
-    font-family: Open Sans;
     margin: 0;
     width: 100%;
     background-image: url(../Images/frontpage/frontpage-32.png);

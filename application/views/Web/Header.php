@@ -51,8 +51,8 @@
 							</a>
 						</li>
 						<li>
-							<a href="Franquicias">
-								Franquicias 
+							<a href="Franquicias ">
+								Sucursales  
 							</a>
 						</li>
 					</ul>
