@@ -52,9 +52,31 @@
 
 .divVerMas p{
 	background-color: #f09d30;
-	width: 54px;
+	width: 70px;
 	margin:0 auto;
 	padding: 4px;
 	color: #fff;
 }
+
+
+
+.slide1.item.active{
+    background-image: url(../Images/Slide/banners-10.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.slide2.item.active{
+    background-image: url(../Images/Slide/banners-11.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.slide3.item.active{
+    background-image: url(../Images/Slide/banners-12.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
 

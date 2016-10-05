@@ -24,18 +24,18 @@
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
+    <div class="slide1 item active">
       <img src="<?php echo base_url() ?>Resources/Images/frontpage/frontpage-33.png" alt="...">
       <div class="carousel-caption">
       </div>
     </div>
-    <div class="item">
+    <div class="slide2 item">
       <img src="<?php echo base_url() ?>Resources/Images/frontpage/frontpage-33.png" alt="...">
       <div class="carousel-caption">
 
       </div>
     </div>
-     <div class="item">
+     <div class="slide3 item">
       <img src="<?php echo base_url() ?>Resources/Images/frontpage/frontpage-33.png" alt="...">
       <div class="carousel-caption">
 
