@@ -12,6 +12,7 @@
     width: 950px;
     background-size:100%;
     background-image:url(../Images/frontpage/frontpage-24.png);
+    margin-top: 8%;
 }
 
 .modal-content{
@@ -38,6 +39,11 @@
 }
 .divVerMas a{
 	text-decoration:none;
+	
+}
+
+.divVerMas a:hover h4{
+	color:#E2061A;
 }
 
 .divVerMas p, .divVerMas h4{

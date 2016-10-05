@@ -4,9 +4,9 @@
 				<div class="col-lg-4">
 					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-29.png" />
 					<div class="div1">
-						<a>
-							<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-28.png" />
-						</a>
+						<p>
+							© 2015 FitWeight S.A de C.V
+						</p>
 					</div>					
 				</div>
 				<div class="col-lg-4">
@@ -20,9 +20,17 @@
 				<div class="col-lg-4">
 					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-31.png" />
 					<div class="div3">
-						<a href="Contacto">
-							<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-26.png" />
-						</a>
+						<p>
+							<a href="mailto:info@fitweight.com.mx">
+								info@fitweight.com.mx
+							</a>
+							<br />
+							<br />
+							<a href="Contacto">
+								(33) 36-59-51-86 / (33) 30-50-39-99  
+							</a>
+						</p>
+						
 					</div>					
 				</div>
 			</div>

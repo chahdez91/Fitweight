@@ -64,7 +64,7 @@ footer {
 }
 
 .divHeaderMenu .div1{
-	width:152px;
+	width:110px;
 	margin-top: 30px;
 }
 
@@ -74,12 +74,12 @@ footer {
 }
 
 .divHeaderMenu .div3{
-	width:228px;
+	width:186px;
 }
 
 .ulMenuHeader{
 	overflow:hidden;	
-    margin-top: 78px;
+    margin-top: 65px;
 }
 
 .ulMenuHeader > li{
@@ -105,17 +105,37 @@ footer {
 
 footer #divFooter .div1{
     width: 220px;
-    margin: 30px 60px;
+    margin: 30px auto;
 	
 }
 
 footer #divFooter .div2{
-	
+ 	max-width: 350px;
+    margin: 0 auto;
 }
 
 footer #divFooter .div3{
     width: 280px;
-    margin: 10px 60px;
+    margin: 10px auto;
+}
+
+footer #divFooter .div1 p{
+	text-align: center;
+	    
+}
+
+footer #divFooter .div1 p, footer #divFooter .div3 p{
+	background-color:#E2061A;
+	font-size:15px;
+	color:#FFFFFF;
+	padding: 10px;
+    border-radius: 8px;
+}
+
+footer #divFooter .div3 p a{
+	font-size:15px;
+	color:#FFFFFF;
+	text-decoration: none;
 }
 
 .Rojo{
