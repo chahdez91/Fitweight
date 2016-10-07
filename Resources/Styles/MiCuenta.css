@@ -1,0 +1,97 @@
+#divMiCuenta{
+	
+}
+
+#divMiCuenta .div1{
+    max-width: 600px;
+    margin: 0 auto 60px;
+    overflow: hidden
+}
+
+#divMiCuenta .div2{
+    background-image: url(../Images/contacto/contacto-65.png);
+    max-width: 700px;
+    margin: 0 auto 60px;
+    height: 160px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#divMiCuenta .div3{
+	max-width: 500px;
+    margin: 0 auto 60px;
+}
+
+#divMiCuenta p, #divMiCuenta h3{
+	text-align: center;
+}
+
+#divMiCuenta .div4{
+    max-width: 850px;
+    margin: 0 auto 60px;
+}
+
+#divMiCuenta .div4 > div{
+	float:left;
+	width:50%;
+}
+
+#divMiCuenta .div2 .p1{
+    padding: 14px 14px 0;
+    margin-bottom: 0;
+} 
+
+#divMiCuenta .div2 .p2{
+    padding: 4px 14px 0;
+    margin-bottom: 0;
+    color:#FFFFFF;
+} 
+
+#divMiCuenta .div2 .p2 span{
+	font-size: 16px;
+	font-style: italic;
+	font-weight:bold;
+}
+
+#divMiCuenta .div2 h3{
+    margin-top: 16px;
+    margin-bottom: 0;
+    color:#0F63AD;
+    font-weight:bold;
+}
+
+
+#divMiCuenta .div3 input[type="text"], #divMiCuenta .div3 textarea, #divMiCuenta .div3 input[type="password"]{
+    border: 2px solid #4d4d4d;
+    border-radius: 5px;
+}
+
+#divMiCuenta .btn{
+	background-color:#e2061a ;
+	color:#fff;
+	font-style: italic;
+	float: right;
+	border-radius: 5px;
+}
+
+#divMiCuenta  .btn:hover, #divMiCuenta .btn:active, #divMiCuenta .btn:focus, #divMiCuenta .btn:visited{
+	background-color:#0F63AD ;
+	color:#fff;
+}
+
+#divMiCuenta .div3 label{
+	font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#divMiCuenta .div3 .p3{
+	width: 240px;
+	margin:0 auto;
+	background-color: #4d4d4d;
+	color:#FFFFFF;
+	border-radius:5px;
+	padding: 5px; 
+}
+
+

@@ -56,5 +56,6 @@ $route['Conocenos'] = 'Web/Conocenos';
 $route['Productos'] = 'Web/Productos';
 $route['Franquicias '] = 'Web/Franquicias';
 $route['Eventos'] = 'Web/Eventos';
+$route['MiCuenta'] = 'Web/MiCuenta';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

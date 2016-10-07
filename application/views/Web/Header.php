@@ -58,7 +58,7 @@
 					</ul>
 				</div>
 				<div class="div3">
-					<a href="#">
+					<a href="MiCuenta">
 						<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-14.png" />
 					</a>
 				</div>
