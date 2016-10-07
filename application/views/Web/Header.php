@@ -63,5 +63,17 @@
 					</a>
 				</div>
 			</div>
-			</div>						
+			</div>		
+			<div class="RedesSociales">
+				<a href="#" target="_blank">
+					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-15.png" />
+				</a>
+				<a href="#" target="_blank">
+					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-16.png" />
+				</a>
+				<a href="#" target="_blank">
+					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-17.png" />
+				</a>
+				
+			</div>				
 		</header>
