@@ -1,1 +1,18 @@
+#divFranquicias .div1{
+	margin-bottom:30px;
+}
 
+
+img {
+    max-width: 90%;
+    
+}
+
+#divFranquicias .div2{
+	height:250px;
+}
+
+  #map { 
+  	height: 100%; 
+  	border:10px solid #0F63AD;
+  	}
