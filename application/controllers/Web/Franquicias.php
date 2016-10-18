@@ -8,7 +8,9 @@ class Franquicias extends CI_Controller {
 		
     	$data['titulo'] = 'Sucursales';
     	$data['estilos'] = '<link rel="stylesheet" type="text/css" href="'.base_url().'Resources/Styles/Franquicias.css">';
-		$data['scripts'] = '<script src="'.base_url().'Resources/Scripts/Franquicias.js"></script>'.'<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7iLq9FCFXyRqCPfmIXSUwW-NC97SKZKg&callback=initMap" async defer></script>';
+		$data['scripts'] = '<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyB7iLq9FCFXyRqCPfmIXSUwW-NC97SKZKg" ></script>'
+		.'<script src="'.base_url().'Resources/Plugins/locationpicker/src/locationpicker.jquery.js"></script>'
+		.'<script src="'.base_url().'Resources/Scripts/Franquicias.js"></script>';
 				    	
     	$this->load->view('Web/Header',$data);
         $this->load->view('Web/Franquicias');
