@@ -160,6 +160,22 @@ footer #divFooter .div3 p a{
 }
 
 
+.TelefonoFooter, .EmailFooter{
+	display: inline-block;
+	background-repeat: no-repeat; 
+	    padding-left: 30px;
+}
+
+.TelefonoFooter{
+	background-image: url(../Images/phone.png);
+	padding-bottom: 3px;
+}
+
+
+.EmailFooter{
+	background-image: url(../Images/envelope.png);
+	margin-bottom: 10px;
+}
 
 
 

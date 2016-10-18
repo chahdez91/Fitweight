@@ -21,12 +21,10 @@
 					<img src="<?php echo base_url(); ?>Resources/Images/frontpage/frontpage-31.png" />
 					<div class="div3">
 						<p>
-							<a href="mailto:info@fitweight.com.mx">
+							<a href="mailto:info@fitweight.com.mx" class="EmailFooter">
 								info@fitweight.com.mx
 							</a>
-							<br />
-							<br />
-							<a href="Contacto">
+							<a href="Contacto" class="TelefonoFooter">
 								(33) 36-59-51-86 / (33) 30-50-39-99  
 							</a>
 						</p>
